@@ -193,3 +193,5 @@ A Bifrost pipeline. A Discord sovereign terminal. A WORM-sealed audit chain.
 [![license](https://img.shields.io/badge/license-FSL--1.1-f97316?style=flat-square)](https://github.com/SNAPKITTYWEST/DEVFLOW-FINANCE/blob/main/LICENSE)
 
 </div>
+
+![](https://sovereign-analytics.snapkittywest.workers.dev/canary/snapkitty-orphan-museum)
